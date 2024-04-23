@@ -1,5 +1,5 @@
-# Match Scheduler Telegram Bot
-Telegram Bot for scheduling league matches by setting time and place. The information that the user provides is then sent to the server that will handle it 
+# Node TS Telegram Bot
+This is a template repository that can be used to generate any Telegram bot using Node.js + Typescript
 
 ## Run the server
 
