@@ -1,7 +1,7 @@
 {
-    "name": "match-scheduler-tg-bot",
+    "name": "tg-bot-template",
     "version": "0.1.0",
-    "description": "Simple Telegram Bot for scheduling league matches by setting time and place. The information that the user provides is then sent to the server that will handle it",
+    "description": "Simple Telegram bot template",
     "main": "index.js",
     "type": "module",
     "scripts": {
